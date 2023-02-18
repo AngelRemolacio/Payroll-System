@@ -1,0 +1,78 @@
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\FinalProject - Salary Budgeting System.exe.config
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\FinalProject - Salary Budgeting System.exe
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\FinalProject - Salary Budgeting System.pdb
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.csproj.SuggestedBindingRedirects.cache
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Properties.Resources.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.csproj.GenerateResource.cache
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.exe
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.pdb
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.LoginForm.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.PaySlipForm.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\Google.Protobuf.dll
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\MySql.Data.dll
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\System.Buffers.dll
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\System.Memory.dll
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\ZstdNet.dll
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\Google.Protobuf.pdb
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\Google.Protobuf.xml
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\MySql.Data.xml
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\System.Buffers.xml
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\System.Memory.xml
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.HomeForm.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.csproj.CopyComplete
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.PayrollSystem.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Guidanceform.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Healthform.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Libraryform.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Registrarform.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Securityform.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.MISform.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Utilityform.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Facilityform.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.HRform.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.subHomeform.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Helpform.resources
+C:\Users\test\source\repos\FinalProject - Salary Budgeting System\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.AdminForm.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\bin\Debug\FinalProject - Salary Budgeting System.exe.config
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\bin\Debug\FinalProject - Salary Budgeting System.exe
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\bin\Debug\FinalProject - Salary Budgeting System.pdb
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\bin\Debug\System.Buffers.dll
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.csproj.AssemblyReference.cache
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.AdminForm.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.LoginForm.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Guidanceform.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Healthform.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Libraryform.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Registrarform.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.subHomeform.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Helpform.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.PayrollSystem.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.PaySlipForm.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.HomeForm.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Securityform.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.MISform.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Utilityform.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Facilityform.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.HRform.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject___Salary_Budgeting_System.Properties.Resources.resources
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.csproj.GenerateResource.cache
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.csproj.CopyComplete
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.exe
+C:\Users\Patricia\OneDrive\Desktop\FinalProject - Salary Budgeting System\obj\Debug\FinalProject - Salary Budgeting System.pdb

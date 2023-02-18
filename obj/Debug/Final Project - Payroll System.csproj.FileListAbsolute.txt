@@ -1,0 +1,29 @@
+C:\Users\test\Documents\prog\FinalProject - Payroll System\bin\Debug\FinalProject - Salary Budgeting System.exe.config
+C:\Users\test\Documents\prog\FinalProject - Payroll System\bin\Debug\FinalProject - Salary Budgeting System.exe
+C:\Users\test\Documents\prog\FinalProject - Payroll System\bin\Debug\FinalProject - Salary Budgeting System.pdb
+C:\Users\test\Documents\prog\FinalProject - Payroll System\bin\Debug\System.Buffers.dll
+C:\Users\test\Documents\prog\FinalProject - Payroll System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\Final Project - Payroll System.csproj.AssemblyReference.cache
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\Final Project - Payroll System.csproj.SuggestedBindingRedirects.cache
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.AdminForm.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.LoginForm.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.Guidanceform.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.Healthform.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.Libraryform.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.Registrarform.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.subHomeform.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.Helpform.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.PayrollSystem.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.PaySlipForm.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.HomeForm.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.Securityform.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.MISform.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.Utilityform.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.Facilityform.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.HRform.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject___Salary_Budgeting_System.Properties.Resources.resources
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\Final Project - Payroll System.csproj.GenerateResource.cache
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\Final Project - Payroll System.csproj.CoreCompileInputs.cache
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\Final Project - Payroll System.csproj.CopyComplete
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject - Salary Budgeting System.exe
+C:\Users\test\Documents\prog\FinalProject - Payroll System\obj\Debug\FinalProject - Salary Budgeting System.pdb
